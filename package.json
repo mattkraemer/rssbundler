@@ -10,7 +10,7 @@
     "react-dom": "^16.14.0",
     "react-scripts": "3.3.0",
     "rss-combiner": "0.0.5",
-    "tailwindcss": "^1.9.6",
+    "tailwindcss": "^2.1.1",
     "xml2js": "^0.4.23"
   },
   "scripts": {
